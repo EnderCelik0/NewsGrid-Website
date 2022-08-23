@@ -183,8 +183,9 @@ h6 {
 /* NAVBAR */
 
 #main-nav {
-  background-color: #fff;
+  background: #efe1e1;
   position: fixed;
+  opacity: 0.9;
   width: 100%;
   top: 0;
   z-index: 2;
